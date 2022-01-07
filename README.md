@@ -17,20 +17,16 @@ Nowé, Ann, Katja Verbeeck, and Peter Vrancx. "Multi-type ant colony: The edge d
 ## Library Dependencies
 
 The provided code requires the following libraries to be installed:
-- NumPy
-- Matplotlib
-- Tabulate
-- NetworkX
-- Pickle
 
-If not yet installed these can be installed via pip through the commands:
-- ```pip install numpy```
-- ```pip install matplotlib```
-- ```pip install tabulate```
-- ```pip install networkx```
-- ```pip install pickle```
+| Library     | Installation Command                        |
+| :---     | :---                          |
+| NumPy | ```pip install numpy``` |
+| Matplotlib | ```pip install matplotlib``` | 
+| Tabulate | ```pip install tabulate``` |
+| NetworkX | ```pip install networkx``` | 
+| Pickle | ```pip install pickle``` | 
 
-If all requirements are fulfilled, the experiments described in the paper can be reproduced via the following commands:  
+If all requirements are fulfilled, the experiments described in the [paper](group_9_exam_project_vub.pdf) can be reproduced via the following commands:  
 - ```python experiment_1.py```
 - ```python experiment_2.py```
 - ```python experiment_3.py```
