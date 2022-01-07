@@ -26,8 +26,12 @@ The provided code requires the following libraries to be installed:
 | NetworkX | ```pip install networkx``` | 
 | Pickle | ```pip install pickle``` | 
 
+## Running Experiments
+
 If all requirements are fulfilled, the experiments described in the [paper](group_9_exam_project_vub.pdf) can be reproduced via the following commands:  
 - ```python experiment_1.py```
 - ```python experiment_2.py```
 - ```python experiment_3.py```
 - ```python experiment_4.py```
+
+It should also be noted that alternative implementations have been provided throughout the code with explanations stating their purpose and usage.
