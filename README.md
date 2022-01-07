@@ -24,7 +24,7 @@ The provided code requires the following libraries to be installed:
 | Matplotlib | ```pip install matplotlib``` | 
 | Tabulate | ```pip install tabulate``` |
 | NetworkX | ```pip install networkx``` | 
-| Pickle | ```pip install pickle``` | 
+| Pickle | ```pip install pickle-mixin``` | 
 
 ## Running Experiments
 
