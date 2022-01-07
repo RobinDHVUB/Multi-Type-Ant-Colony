@@ -3,7 +3,7 @@ Computational Game Theory: Exam Project of Group 9
 
 This GitHub repository accompanies an [original paper](group_9_exam_project_vub.pdf) which is a reproduction and extension of the experiments performed by Nowé, Verbeeck and Vranckx in:
 
-Nowé, Ann, Katja Verbeeck, and Peter Vrancx. "Multi-type ant colony: The edge disjoint paths problem." International Workshop on Ant Colony Optimization and Swarm Intelligence. Springer, Berlin, Heidelberg, 2004.
+Now ́e, A., Verbeeck, K., and Vrancx, P. (2004). Multi-type Ant Colony: The Edge Disjoint Paths Problem. In Dorigo, M., Birattari, M., Blum, C., Gambardella, L. M., Mondada, F., and St  ̈utzle, T., editors, *ANTS 2004*, Lecture Notes in Computer Science, pages 202–213, Berlin, Heidelberg. Springer.
 
 ## Group 9
 
@@ -34,4 +34,4 @@ If all requirements are fulfilled, the experiments described in the [paper](grou
 - ```python experiment_3.py```
 - ```python experiment_4.py```
 
-It should also be noted that alternative implementations have been provided throughout the code with explanations stating their purpose and usage.
+It should also be noted that alternative implementations have been provided throughout the code with comments explaining their purpose and usage.
