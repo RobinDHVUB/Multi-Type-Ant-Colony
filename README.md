@@ -1,7 +1,7 @@
 # Revisiting Multi-Type-Ant-Colony: The Edge Disjoint Paths Problem
 Computational Game Theory: Exam Project of Group 9 
 
-This GitHub repository accompanies an [original paper](group_9_exam_project_vub.pdf) which is a reproduction and extension of the experiments performed by Nowé, Verbeeck and Vranckx in:
+This GitHub repository accompanies our [paper](group_9_exam_project_vub.pdf) which is a reproduction and extension of the experiments performed by Nowé, Verbeeck and Vranckx in:
 
 Vrancx, P., Nowé, A. and Verbeeck, K. (2004). Multi-type Ant Colony: The Edge Disjoint Paths Problem. In Dorigo, M., Birattari, M., Blum, C., Gambardella, L. M., Mondada, F., and St  ̈utzle, T., editors, *ANTS 2004*, Lecture Notes in Computer Science, pages 202–213, Berlin, Heidelberg. Springer. https://doi.org/10.1007/978-3-540-28646-2_18
 
